@@ -1,0 +1,28 @@
+name: blockchainz
+favicon: null
+layout_spectrum: 0.7810334567911923
+typography_spectrum: 0.6937780121807009
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5018734482582659
+  lightness: 0.7099518640898168
+  saturation: 0.9773159387987107
+  rhythmicContrast: 0.5868688889313489
+purpose: []
